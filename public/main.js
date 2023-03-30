@@ -14,5 +14,4 @@ checkTheme.addEventListener("change", (e)=>{
         document.documentElement.style.setProperty('--LightGrayishBlue', ' hsl(227, 47%, 96%)');
         document.documentElement.style.setProperty('--VeryPaleBlue', 'hsl(225, 100%, 98%)');
     }
-    
 })
